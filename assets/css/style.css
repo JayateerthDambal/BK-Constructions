@@ -264,7 +264,7 @@ div#preloader {
 @media (max-width: 768px) {
   #header {
     height: 64px;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(209, 209, 209, 0.904);
   }
   #header .logo h1 {
     font-size: 28px;
@@ -324,7 +324,7 @@ div#preloader {
   padding: 10px 0 10px 30px;
   font-size: 19px;
   font-weight: 600;
-  color: #790636;
+  color: #000000;
   white-space: nowrap;
   transition: 1.3s;
 }
@@ -577,6 +577,22 @@ div#preloader {
   #hero p {
     width: 60%;
   }
+  .single-well a img{
+    margin-left: -120px;
+    margin-top: -35px;
+  }
+  .well-middle {
+    margin-left: -110px;
+  }
+  .well-middle h4{
+    font-size: 22px;
+  }
+  .well-middle p{
+    font-size: 20px;
+  }
+  .well-middle ul li{
+    font-size: 18px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -679,6 +695,7 @@ div#preloader {
 .single-well p {
   color: #444;
 }
+
 
 /*--------------------------------------------------------------
 # Services
