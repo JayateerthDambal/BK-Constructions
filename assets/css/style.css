@@ -264,7 +264,7 @@ div#preloader {
 @media (max-width: 768px) {
   #header {
     height: 64px;
-    background: rgba(209, 209, 209, 0.904);
+    background: rgba(255, 255, 255, 0.904);
   }
   #header .logo h1 {
     font-size: 28px;
@@ -406,8 +406,8 @@ div#preloader {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
-  font-size: 28px;
+  color: #db471a;
+  font-size: 32px;
   cursor: pointer;
   display: none;
   line-height: 0;
@@ -456,7 +456,7 @@ div#preloader {
 
 .navbar-mobile a {
   padding: 10px 20px;
-  font-size: 15px;
+  font-size: 20px;
   color: #0d2529;
 }
 
@@ -1117,11 +1117,11 @@ div#preloader {
 }
 
 .project-dec h4:hover {
-  color: #fff;
+  color: #db471a;
 }
 
 .project-dec h4 {
-  color: #ddd;
+  color: #db471a;
   font-size: 24px;
   margin-top: -45px;
   padding-top: 50%;
@@ -1131,7 +1131,7 @@ div#preloader {
 }
 
 .project-dec span {
-  color: #ddd;
+  color: #db471a;
   font-size: 13px;
 }
 
