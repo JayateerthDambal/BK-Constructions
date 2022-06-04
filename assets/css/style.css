@@ -267,7 +267,8 @@ div#preloader {
     background: rgba(255, 255, 255, 0.904);
   }
   #header .logo h1 {
-    font-size: 28px;
+    font-size: 21px;
+    margin-top: 5px;
   }
 }
 
@@ -1167,8 +1168,13 @@ div#preloader {
   text-align: center;
   transition: all 0.4s ease 0s;
   background: #fff;
+  /* box-shadow: 1px 2px 2px 1px #363636; */
 }
 
+.standard_price{
+  box-shadow: 1px 1px 1px 1px #363636;
+
+}
 .pri_table_list h3 span {
   font-size: 16px;
 }
